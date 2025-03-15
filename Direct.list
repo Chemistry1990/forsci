@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,sugon.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,gzbaoxian.com
+DOMAIN-SUFFIX,shifen.com
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
