@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,mrdoc
 DOMAIN-KEYWORD,ffzy
 OMAIN-KEYWORD,kuaishou
+OMAIN-KEYWORD,pop.air
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
