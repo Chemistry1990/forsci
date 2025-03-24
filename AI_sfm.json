@@ -28,6 +28,12 @@
         "anthropic.com",
         "claude.ai.com",
         "grok.com"
+      ],
+      "domain_keyword": [
+        "grok",
+        "openai",
+        "anthropic",
+        "Claude"
       ]
     }
   ]
