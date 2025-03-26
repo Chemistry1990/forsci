@@ -7,7 +7,6 @@
         "gemini.google.com"
       ],
       "domain_suffix": [
-        "googleapis.com",
         "chatgpt.com",
         "auth0.com",
         "client-api.arkoselabs.com",
@@ -22,7 +21,7 @@
         "openaiapi-site.azureedge.net",
         "sentry.io",
         "stripe.com",
-        "google.com",
+        "gemini.google.com",
         "makersuite.google.com",
         "anthropic.com",
         "claude.ai.com",
